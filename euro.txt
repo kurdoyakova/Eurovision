@@ -1,0 +1,186 @@
+place,percent,country,artist,song,video,date
+1,16,Ukraine,Tvorchi,Heart of Steel,realise,2023-02-04
+2,10,Sweden,none,none,none,2023-02-04
+3,7,Finland,none,none,none,2023-02-04
+4,6,Italy,none,none,none,2023-02-04
+5,5,Czech Republic,none,none,none,2023-02-04
+6,5,United Kingdom,none,none,none,2023-02-04
+7,3,France,La Zarra,none,none,2023-02-04
+8,3,Netherlands,Mia Nicolai & Dion Cooper,none,none,2023-02-04
+9,3,Australia,none,none,none,2023-02-04
+10,3,Israel,none,none,none,2023-02-04
+11,3,Spain,none,none,none,2023-02-04
+12,3,Norway,none,none,none,2023-02-04
+13,3,Ireland,Wild Youth,We Are One,realise,2023-02-04
+14,3,Armenia,Brunette,none,none,2023-02-04
+15,2,Poland,none,none,none,2023-02-04
+16,2,Switzerland,none,none,none,2023-02-04
+17,2,Estonia,none,none,none,2023-02-04
+18,2,Serbia,none,none,none,2023-02-04
+19,2,Lithuania,none,none,none,2023-02-04
+20,2,Portugal,none,none,none,2023-02-04
+21,2,Georgia,Iru Khechanovi,none,none,2023-02-04
+22,1,Germany,none,none,none,2023-02-04
+23,1,Greece,none,none,none,2023-02-04
+24,1,Azerbaijan,none,none,none,2023-02-04
+25,1,Cyprus,Andrew Lambrou,none,none,2023-02-04
+26,1,Austria,Teya & Salena,none,none,2023-02-04
+27,1,Iceland,none,none,none,2023-02-04
+28,1,Denmark,none,none,none,2023-02-04
+29,1,Moldova,none,none,none,2023-02-04
+30,1,Croatia,none,none,none,2023-02-04
+31,1,San Marino,none,none,none,2023-02-04
+32,1,Belgium,Gustaph,Because of You,realise,2023-02-04
+33,1,Slovenia,none,none,none,2023-02-04
+34,1,Latvia,none,none,none,2023-02-04
+35,1,Malta,none,none,none,2023-02-04
+36,0.5,Romania,none,none,none,2023-02-04
+37,0.5,Albania,Albina & Familja Kelmendi,Duje,realise,2023-02-04
+1,16,Ukraine,Tvorchi,Heart of Steel,realise,2023-02-05
+2,10,Sweden,none,none,none,2023-02-05
+3,7,Finland,none,none,none,2023-02-05
+4,6,Italy,none,none,none,2023-02-05
+5,6,Czech Republic,none,none,none,2023-02-05
+6,5,United Kingdom,none,none,none,2023-02-05
+7,4,Norway,Alessandra,Queen of Kings,realise,2023-02-05
+8,4,France,La Zarra,none,none,2023-02-05
+9,3,Netherlands,Mia Nicolai & Dion Cooper,none,none,2023-02-05
+10,3,Israel,none,none,none,2023-02-05
+11,3,Australia,none,none,none,2023-02-05
+12,3,Spain,Blanca Paloma,Eaea,realise,2023-02-05
+13,3,Armenia,Brunette,none,none,2023-02-05
+14,2,Ireland,Wild Youth,We Are One,realise,2023-02-05
+15,2,Poland,none,none,none,2023-02-05
+16,2,Switzerland,none,none,none,2023-02-05
+17,2,Estonia,none,none,none,2023-02-05
+18,2,Serbia,none,none,none,2023-02-05
+19,2,Georgia,Iru Khechanovi,none,none,2023-02-05
+20,2,Lithuania,none,none,none,2023-02-05
+21,1,Germany,none,none,none,2023-02-05
+22,1,Portugal,none,none,none,2023-02-05
+23,1,Greece,none,none,none,2023-02-05
+24,1,Cyprus,Andrew Lambrou,none,none,2023-02-05
+25,1,Azerbaijan,none,none,none,2023-02-05
+26,1,Austria,Teya & Salena,none,none,2023-02-05
+27,1,Denmark,none,none,none,2023-02-05
+28,1,Iceland,none,none,none,2023-02-05
+29,1,Moldova,none,none,none,2023-02-05
+30,1,Croatia,none,none,none,2023-02-05
+31,1,San Marino,none,none,none,2023-02-05
+32,1,Latvia,none,none,none,2023-02-05
+33,1,Slovenia,Joker Out,Carpe Diem,realise,2023-02-05
+34,1,Belgium,Gustaph,Because of You,realise,2023-02-05
+35,1,Malta,none,none,none,2023-02-05
+36,1,Romania,none,none,none,2023-02-05
+37,0.5,Albania,Albina & Familja Kelmendi,Duje,realise,2023-02-05
+1,16,Ukraine,Tvorchi,Heart of Steel,realise,2023-02-06
+2,10,Sweden,none,none,none,2023-02-06
+3,7,Finland,none,none,none,2023-02-06
+4,6,Italy,none,none,none,2023-02-06
+5,6,Czech Republic,none,none,none,2023-02-06
+6,5,United Kingdom,none,none,none,2023-02-06
+7,4,Norway,Alessandra,Queen of Kings,realise,2023-02-06
+8,3,France,La Zarra,none,none,2023-02-06
+9,3,Netherlands,Mia Nicolai & Dion Cooper,none,none,2023-02-06
+10,3,Spain,Blanca Paloma,Eaea,realise,2023-02-06
+11,3,Israel,none,none,none,2023-02-06
+12,3,Australia,none,none,none,2023-02-06
+13,2,Armenia,Brunette,none,none,2023-02-06
+14,2,Poland,none,none,none,2023-02-06
+15,2,Ireland,Wild Youth,We Are One,realise,2023-02-06
+16,2,Switzerland,none,none,none,2023-02-06
+17,2,Estonia,none,none,none,2023-02-06
+18,2,Serbia,none,none,none,2023-02-06
+19,2,Georgia,Iru Khechanovi,none,none,2023-02-06
+20,2,Lithuania,none,none,none,2023-02-06
+21,1,Portugal,none,none,none,2023-02-06
+22,1,Germany,none,none,none,2023-02-06
+23,1,Cyprus,Andrew Lambrou,none,none,2023-02-06
+24,1,Azerbaijan,none,none,none,2023-02-06
+25,1,Greece,none,none,none,2023-02-06
+26,1,Austria,Teya & Salena,none,none,2023-02-06
+27,1,Denmark,none,none,none,2023-02-06
+28,1,Iceland,none,none,none,2023-02-06
+29,1,Moldova,none,none,none,2023-02-06
+30,1,Croatia,none,none,none,2023-02-06
+31,1,San Marino,none,none,none,2023-02-06
+32,1,Latvia,none,none,none,2023-02-06
+33,1,Slovenia,Joker Out,Carpe Diem,realise,2023-02-06
+34,1,Belgium,Gustaph,Because of You,realise,2023-02-06
+35,1,Malta,none,none,none,2023-02-06
+36,0.5,Romania,none,none,none,2023-02-06
+37,0.5,Albania,Albina & Familja Kelmendi,Duje,realise,2023-02-06
+1,20,Ukraine,Tvorchi,Heart of Steel,realise,2023-02-07
+2,10,Sweden,none,none,none,2023-02-07
+3,7,Finland,none,none,none,2023-02-07
+4,5,Czech Republic,none,none,none,2023-02-07
+5,5,Italy,none,none,none,2023-02-07
+6,5,United Kingdom,none,none,none,2023-02-07
+7,5,Norway,Alessandra,Queen of Kings,realise,2023-02-07
+8,3,France,La Zarra,none,none,2023-02-07
+9,3,Netherlands,Mia Nicolai & Dion Cooper,none,none,2023-02-07
+10,3,Israel,none,none,none,2023-02-07
+11,3,Australia,none,none,none,2023-02-07
+12,3,Spain,Blanca Paloma,Eaea,realise,2023-02-07
+13,2,Poland,none,none,none,2023-02-07
+14,2,Armenia,Brunette,none,none,2023-02-07
+15,2,Estonia,none,none,none,2023-02-07
+16,2,Switzerland,none,none,none,2023-02-07
+17,2,Serbia,none,none,none,2023-02-07
+18,2,Georgia,Iru Khechanovi,none,none,2023-02-07
+19,2,Ireland,Wild Youth,We Are One,realise,2023-02-07
+20,1,Lithuania,none,none,none,2023-02-07
+21,1,Portugal,none,none,none,2023-02-07
+22,1,Cyprus,Andrew Lambrou,none,none,2023-02-07
+23,1,Germany,none,none,none,2023-02-07
+24,1,Greece,none,none,none,2023-02-07
+25,1,Austria,Teya & Salena,none,none,2023-02-07
+26,1,Azerbaijan,none,none,none,2023-02-07
+27,1,Iceland,none,none,none,2023-02-07
+28,1,Denmark,none,none,none,2023-02-07
+29,1,Croatia,none,none,none,2023-02-07
+30,1,Moldova,none,none,none,2023-02-07
+31,1,Slovenia,Joker Out,Carpe Diem,realise,2023-02-07
+32,1,San Marino,none,none,none,2023-02-07
+33,1,Latvia,none,none,none,2023-02-07
+34,1,Malta,none,none,none,2023-02-07
+35,1,Belgium,Gustaph,Because of You,realise,2023-02-07
+36,0.5,Romania,none,none,none,2023-02-07
+37,0.5,Albania,Albina & Familja Kelmendi,Duje,realise,2023-02-07
+1,20,Ukraine,Tvorchi,Heart of Steel,realise,2023-02-08
+2,10,Sweden,none,none,none,2023-02-08
+3,7,Finland,none,none,none,2023-02-08
+4,5,Czech Republic,Vesna,My Sister's Crown,realise,2023-02-08
+5,5,Norway,Alessandra,Queen of Kings,realise,2023-02-08
+6,5,Italy,none,none,none,2023-02-08
+7,5,United Kingdom,none,none,none,2023-02-08
+8,3,France,La Zarra,none,none,2023-02-08
+9,3,Netherlands,Mia Nicolai & Dion Cooper,none,none,2023-02-08
+10,3,Israel,none,none,none,2023-02-08
+11,3,Australia,none,none,none,2023-02-08
+12,3,Spain,Blanca Paloma,Eaea,realise,2023-02-08
+13,2,Poland,none,none,none,2023-02-08
+14,2,Armenia,Brunette,none,none,2023-02-08
+15,2,Estonia,none,none,none,2023-02-08
+16,2,Switzerland,none,none,none,2023-02-08
+17,2,Serbia,none,none,none,2023-02-08
+18,2,Georgia,Iru Khechanovi,none,none,2023-02-08
+19,2,Ireland,Wild Youth,We Are One,realise,2023-02-08
+20,1,Lithuania,none,none,none,2023-02-08
+21,1,Portugal,none,none,none,2023-02-08
+22,1,Cyprus,Andrew Lambrou,none,none,2023-02-08
+23,1,Austria,Teya & Salena,none,none,2023-02-08
+24,1,Germany,none,none,none,2023-02-08
+25,1,Greece,none,none,none,2023-02-08
+26,1,Azerbaijan,none,none,none,2023-02-08
+27,1,Croatia,none,none,none,2023-02-08
+28,1,Denmark,none,none,none,2023-02-08
+29,1,Iceland,none,none,none,2023-02-08
+30,1,Moldova,none,none,none,2023-02-08
+31,1,San Marino,none,none,none,2023-02-08
+32,1,Slovenia,Joker Out,Carpe Diem,realise,2023-02-08
+33,1,Latvia,none,none,none,2023-02-08
+34,1,Malta,none,none,none,2023-02-08
+35,0.5,Belgium,Gustaph,Because of You,realise,2023-02-08
+36,0.5,Romania,none,none,none,2023-02-08
+37,0.5,Albania,Albina & Familja Kelmendi,Duje,realise,2023-02-08
